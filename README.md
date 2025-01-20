@@ -1,5 +1,5 @@
 # F1NALYZE
-Here is my EDA project for PBL-1. This project is an EDA based on the 2024 Formula 1 British Grand Prix. 
+Here is my project for PBL-1. This project is an EDA based on the 2024 Formula 1 British Grand Prix. 
 
 ## Objectives of the Project
 
